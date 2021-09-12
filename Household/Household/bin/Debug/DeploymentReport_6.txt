@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[April_2021] (Table)
+       [dbo].[August_2021] (Table)
+       [dbo].[February_2021] (Table)
+       [dbo].[July_2021] (Table)
+       [dbo].[June_2021] (Table)
+       [dbo].[March_2021] (Table)
+       [dbo].[May_2021] (Table)
+
+** Supporting actions

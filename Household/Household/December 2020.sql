@@ -1,4 +1,0 @@
-﻿CREATE TABLE [dbo].[December 2020]
-(
-	[Id] INT NOT NULL PRIMARY KEY
-)

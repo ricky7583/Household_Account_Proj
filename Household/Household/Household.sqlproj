@@ -56,5 +56,21 @@
   <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
   <ItemGroup>
     <Folder Include="Properties" />
+    <Folder Include="dbo" />
+    <Folder Include="dbo\Tables" />
+    <Folder Include="PublishLocations" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\Tables\January_2021.sql" />
+    <Build Include="dbo\Tables\February_2021.sql" />
+    <Build Include="dbo\Tables\March_2021.sql" />
+    <Build Include="dbo\Tables\April_2021.sql" />
+    <Build Include="dbo\Tables\May_2021.sql" />
+    <Build Include="dbo\Tables\June_2021.sql" />
+    <Build Include="dbo\Tables\July_2021.sql" />
+    <Build Include="dbo\Tables\August_2021.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="PublishLocations\HouseholdProject.publish.xml" />
   </ItemGroup>
 </Project>
