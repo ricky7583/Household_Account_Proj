@@ -8,3 +8,9 @@ D:\Documents\College\Personal Project\Household account book\Household\Household
 D:\Documents\College\Personal Project\Household account book\Household\Household\Household\obj\Debug\refactor.xml
 D:\Documents\College\Personal Project\Household account book\Household\Household\Household\obj\Debug\postdeploy.sql
 D:\Documents\College\Personal Project\Household account book\Household\Household\Household\obj\Debug\predeploy.sql
+D:\Documents\College\Personal Project\Household account book\Household account DB\Household\Household\bin\Debug\Household.dacpac
+D:\Documents\College\Personal Project\Household account book\Household account DB\Household\Household\bin\Debug\Household.dll
+D:\Documents\College\Personal Project\Household account book\Household account DB\Household\Household\bin\Debug\Household.pdb
+D:\Documents\College\Personal Project\Household account book\Household account DB\Household\Household\obj\Debug\Household.sqlproj.AssemblyReference.cache
+D:\Documents\College\Personal Project\Household account book\Household account DB\Household\Household\obj\Debug\Household.dll
+D:\Documents\College\Personal Project\Household account book\Household account DB\Household\Household\obj\Debug\Household.pdb
